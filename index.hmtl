@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مقاومت فلسطین</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e2e;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #000000;
+            padding: 20px;
+        }
+        header h1 {
+            color: #ffffff;
+        }
+        main {
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        footer {
+            background-color: #000000;
+            color: #ffffff;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>مقاومت فلسطین</h1>
+    </header>
+    <main>
+        <h2>برای آزادی و مقاومت</h2>
+        <p>این وبسایت به مقاومت فلسطین اختصاص دارد.</p>
+        <img src="poster.jpg" alt="مقاومت فلسطین">
+    </main>
+    <footer>
+        <p>© 2025 مقاومت فلسطین</p>
+    </footer>
+</body>
+</html>
